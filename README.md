@@ -2,6 +2,7 @@
 Recreation of the printf function in C
 
 The following conversions are implemented:
+
     • %c Prints a single character.
     • %s Prints a string (as defined by the common C convention).
     • %p The void * pointer argument has to be printed in hexadecimal format.
